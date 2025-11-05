@@ -10,7 +10,7 @@ import os
 # Load environment variables
 # -------------------------------
 load_dotenv()
-API_KEY = os.getenv("OPENCAGE_API_KEY", "a3ba867cf14f49019607a169b604a98f")
+API_KEY = os.getenv("OPENCAGE_API_KEY")
 BASE_URL = "https://api.opencagedata.com/geocode/v1/json"
 
 # -------------------------------
