@@ -84,6 +84,6 @@ A simple, elegant **Streamlit web app** for forward and reverse geocoding using 
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/opencage-geocoder-app.git
+   git clone https://github.com/yourusername/geocode.git
    cd opencage-geocoder-app
 
